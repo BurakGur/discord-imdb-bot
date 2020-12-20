@@ -5,7 +5,7 @@
 	"description": "Discord IMDb Bot",
 	"main": "bot.js",
 	"scripts": {
-		"start": "node bot.js -p $PORT",
+		"start": "node bot.js -p 5000",
 		"dev": "nodemon bot.js"
 	},
 	"engines": {
